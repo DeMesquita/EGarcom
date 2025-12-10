@@ -1,0 +1,29 @@
+{
+  "cliente": {
+    "id": 3
+  },
+  "contaId": null, 
+  "itens": [
+    {
+      "quantidade": 1.0,
+      "itemCardapio": {
+        "id": 10
+      }
+    }
+  ]
+}
+outro
+{
+  "cliente": {
+    "id": 1
+  },
+  "contaId": 1, 
+  "itens": [
+    {
+      "quantidade": 2.0,
+      "itemCardapio": {
+        "id": 10
+      }
+    }
+  ]
+}
